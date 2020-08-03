@@ -3,7 +3,6 @@ pandas==1.1.0
 scipy==1.5.2
 matplotlib==3.3.0
 scikit-learn==0.23.1
-spams==2.6.1
 torch==1.6.0
 joblib==0.16.0
 git+https://github.com/Yu-Group/staNMF.git@fb88aed
