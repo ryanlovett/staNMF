@@ -7,3 +7,5 @@ dependencies:
   - joblib=0.16.0
   - pytorch::pytorch=1.6.0
   - conda-forge::python-spams=2.6.1
+  - pip:
+    - git+https://github.com/Yu-Group/staNMF.git@fb88aed
