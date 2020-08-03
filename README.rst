@@ -1,5 +1,8 @@
 Yu Wang, 2018
 
+.. image:: https://mybinder.org/badge_logo.svg
+    :target: https://mybinder.org/v2/gh/ryanlovett/staNMF/master
+
 staNMF
 ------
 Python 3 implementation of `Siqi Wu et al.'s 2016 stability NMF (staNMF)
